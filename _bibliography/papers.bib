@@ -1,115 +1,129 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
+@article{zhang2024mean,
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+  abbr={Automatica},
+  title={Mean-square exponential stabilization of mixed-autonomy traffic PDE system},
+  author={Zhang, Yihuai and Yu, Huan and Auriol, Jean and Pereira, Mike},
+  abstract={Control of mixed-autonomy traffic where Human-driven Vehicles (HVs) and Autonomous 	Vehicles (AVs) coexist on the road has gained increasing attention over the recent decades. This paper addresses the boundary stabilization problem for mixed traffic on freeways. The traffic dynamics are described by uncertain coupled hyperbolic partial differential equations (PDEs) with Markov jumping parameters, which aim to address the distinctive driving strategies between AVs and HVs. Considering that the spacing policies of AVs vary in mixed traffic, the stochastic impact area of AVs is governed by a continuous Markov chain. The interactions between HVs and AVs such as overtaking or lane changing are mainly induced by impact areas. Using backstepping design, we develop a full-state feedback boundary control law to stabilize the deterministic system (nominal system). Applying Lyapunov analysis, we demonstrate that the nominal backstepping control law is able to stabilize the traffic system with Markov jumping parameters, provided the nominal parameters are sufficiently close to the stochastic ones on average. The mean-square exponential stability conditions are derived, and the results are validated by numerical simulations.},
+  journal={Automatica},
+  volume={170},
+  pages={111859},
+  month={Dec},
+  year={2024},
   selected={true},
-  inspirehep_id = {3255}
+  html={https://www.sciencedirect.com/science/article/pii/S0005109824003534},
+  doi={10.1016/j.automatica.2024.111859},
+  pdf={Automatica-1.pdf},
+  preview={mixedtraffic.pdf},
+  publisher={Pergamon}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
+@article{zhang2025mitigating,
+  abbr={TR-C},
   bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+  title={Mitigating stop-and-go traffic congestion with operator learning},
+  author={Zhang, Yihuai and Zhong, Ruiguo and Yu, Huan},
+  abstract={This paper presents a novel neural operator learning framework for designing boundary control to mitigate stop-and-go congestion on freeways. The freeway traffic dynamics are described by second-order coupled hyperbolic partial differential equations (PDEs), i.e. the Aw–Rascle–Zhang (ARZ) macroscopic traffic flow model. The proposed framework learns feedback boundary control strategies from the closed-loop PDE solution using backstepping controllers, which are widely employed for boundary stabilization of PDE systems. The PDE backstepping control design is time-consuming and requires intensive depth of expertise, since it involves constructing and solving backstepping control kernels. Existing machine learning methods for solving PDE control problems, such as physics-informed neural networks (PINNs) and reinforcement learning (RL), face the challenge of retraining when PDE system parameters and initial conditions change. To address these challenges, we present neural operator (NO) learning schemes for the ARZ traffic system that not only ensure closed-loop stability robust to parameter and initial condition variations but also accelerate boundary controller computation. The first scheme embeds NO-approximated control gain kernels within a analytical state feedback backstepping controller, while the second one directly learns a boundary control law from functional mapping between model parameters to closed-loop PDE solution. The stability guarantee of the NO-approximated control laws is obtained using Lyapunov analysis. We further propose the physics-informed neural operator (PINO) to reduce the reliance on extensive training data. The performance of the NO schemes is evaluated by simulated and real traffic data, compared with the benchmark backstepping controller, a Proportional Integral (PI) controller, and a PINN-based controller. The NO-approximated methods achieve a computational speedup of approximately 300 times with only a 1% error trade-off compared to the backstepping controller, while outperforming the other two controllers in both accuracy and computational efficiency. The robustness of the NO schemes is validated using real traffic data, and tested across various initial traffic conditions and demand scenarios. The results show that neural operators can significantly expedite and simplify the process of obtaining controllers for traffic PDE systems with great potential application for traffic management.},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={170},
+  pages={104928},
+  month={Jan},
+  year={2025},
+  doi={10.1016/j.trc.2024.104928},
+  html={https://www.sciencedirect.com/science/article/pii/S0968090X24004492},
+  selected={true},
+  pdf={TRC-2.pdf},
+  preview={trcpreview.pdf},
+  publisher={Elsevier}
 }
 
-@book{przibram1967letters,
+@article{zhang2024operator,
+  abbr={Preprint},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+  title={Operator Learning for Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs},
+  author={Zhang, Yihuai and Auriol, Jean and Yu, Huan},
+  journal={arXiv preprint arXiv:2412.09019},
+  html={https://arxiv.org/abs/2412.09019},
+  pdf={https://arxiv.org/pdf/2412.09019},
+  month={Dec},
+  selected={true},
+  preview={NOTAC.pdf},
+  year={2024}
+}
+
+@article{lv2024neural,
+  bibtex_show={true},
+  abbr={Preprint},
+  title={Neural Operators for Adaptive Control of Freeway Traffic},
+  author={Lv, Kaijing and Wang, Junmin and Zhang, Yihuai and Yu, Huan},
+  journal={arXiv preprint arXiv:2410.20708},
+  month={Oct},
+  html={https://arxiv.org/abs/2410.20708},
+  pdf={https://arxiv.org/pdf/2410.20708},
+  year={2024}
+}
+
+@inproceedings{zhang2024neural,
+  abbr={L4DC},
+  bibtex_show={true},
+  title={Neural operators for boundary stabilization of stop-and-go traffic},
+  author={Zhang, Yihuai and Zhong, Ruiguo and Yu, Huan},
+  booktitle={6th Annual Learning for Dynamics \& Control Conference},
+  pages={554--565},
+  month={Jul},
+  year={2024},
+  pdf={https://proceedings.mlr.press/v242/zhang24c/zhang24c.pdf},
+  Html={https://proceedings.mlr.press/v242/zhang24c.html},
+  organization={PMLR}
+}
+
+
+
+@article{zhang2021low,
+  abbr={J. Dyn. Sys., Meas., Control.},
+  bibtex_show={true},
+  title={Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver},
+  author={Zhang, Yihuai and Shi, Baijun and Hu, Xizhi and Ai, Wandong},
+  journal={Journal of Dynamic Systems, Measurement, and Control},
+  volume={143},
+  number={12},
+  pages={121003},
+  month={Sep},
+  year={2021},
+  html={10.1115/1.4051645},
+  pdf={ASME-1.pdf},
+  publisher={American Society of Mechanical Engineers}
+}
+
+@inproceedings{zhang2024robust,
+  abbr={ACC},
+  bibtex_show={true},
+  title={Robust boundary stabilization of stochastic hyperbolic PDEs},
+  author={Zhang, Yihuai and Auriol, Jean and Yu, Huan},
+  booktitle={2024 American Control Conference (ACC)},
+  pages={5333--5338},
+  month={Jul},
+  year={2024},
+  pdf={ACC-1.pdf},
+  html={https://ieeexplore.ieee.org/document/10644228},
+  organization={IEEE}
+}
+
+@INPROCEEDINGS{10886427,
+  abbr={CDC},
+  bibtex_show={true},
+  author={Zhang, Yihuai and Yu, Huan},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)}, 
+  title={Event-Triggered Boundary Control of Mixed-Autonomy Traffic}, 
+  year={2024},
+  volume={},
+  number={},
+  month={Dec},
+  pages={6428-6433},
+  html={https://ieeexplore.ieee.org/document/10886427},
+  pdf={CDC-1.pdf},
+  organization={IEEE}
 }
