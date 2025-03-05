@@ -34,7 +34,7 @@ to accelerate the implmentation of control methods with theorectial guarantees.
 
 During my Ph.D. studies, I work closely with Prof. [Jean Auriol(CNRS)](https://l2s.centralesupelec.fr/u/auriol-jean/) on the stabilization of PDEs with markov-jumping parameters, we also developed the neural operator(NO)-based backstepping controller to stabilize the stochastic PDEs.
 
-My full [CV](/assets/pdf/Yihuai_CV.pdf)
+My full **[CV](/assets/pdf/Yihuai_CV.pdf)**
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->

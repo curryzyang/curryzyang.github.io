@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+My full list of papers are in [Google Scholar](https://scholar.google.com/citations?user=w81fnD4AAAAJ&hl=zh-CN)
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

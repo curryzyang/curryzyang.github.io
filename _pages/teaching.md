@@ -11,14 +11,14 @@ nav_order: 6
 
 ## mentroship
 
-1. **Ziming Wang** (Mphil student, HKUST(GZ))  
-Project: Event-triggered control of multi-agent systems (Preparing submission to T-ITS)
+1. **Ziming Wang** (Mphil student, HKUST(GZ)), Aug 2024 - now  
+Project: Event-Triggered Control of Multi-Agent Systems (Preparing submission to T-ITS)
 
-2. **Kaijing Lv** (Visiting PhD student, Beijing Institute of Technology)  
+2. **Kaijing Lv** (Visiting PhD student, Beijing Institute of Technology), Mar 2024 - Sep 2024  
 Project: Neural Operators for Adaptive Control of Freeway Traffic (Paper submitted to Automatica)
 
-3. **Ruiguo Zhong** (Ph.D. student, HKUST(GZ))  
-Project: Mitigating stop-and-go traffic congestion with operator learning (Paper published on TRC)
+3. **Ruiguo Zhong** (Ph.D. student, HKUST(GZ)), Sep 2023 - Jan 2024  
+Project: Mitigating Stop-and-Go Traffic Congestion with Operator Learning (Paper published on TRC)
 
 
 ## teaching
