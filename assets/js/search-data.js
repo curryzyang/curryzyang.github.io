@@ -43,7 +43,7 @@ ninja.data = [{
           title: 'Our paper entitled “Mean-Square Exponential Stabilization of Mixed-Autonomy Traffic PDE System” has been...',
           description: "",
           section: "News",},{id: "news-our-paper-entitled-event-triggered-boundary-control-of-mixed-autonomy-traffic-has-been-accepted-by-2024-63rd-ieee-conference-on-decision-and-control-cdc-for-oral-presentation",
-          title: 'Our paper entitled “Event-triggered Boundary Control of Mixed-autonomy Traffic” has been accepted by...',
+          title: 'Our paper entitled “Event-Triggered Boundary Control of Mixed-Autonomy Traffic” has been accepted by...',
           description: "",
           section: "News",},{id: "news-our-paper-entitled-mitigating-stop-and-go-traffic-congestion-with-operator-learning-has-been-accepted-by-transportation-research-part-c-emerging-technologies",
           title: 'Our paper entitled “Mitigating Stop-and-Go Traffic Congestion with Operator Learning” has been accepted...',
