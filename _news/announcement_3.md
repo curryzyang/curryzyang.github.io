@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper entitled "Event-triggered Boundary Control of Mixed-autonomy Traffic" has been accepted by 2024 63rd IEEE Conference on Decision and Control (**CDC**) for oral presentation.
+Our paper entitled "Event-Triggered Boundary Control of Mixed-Autonomy Traffic" has been accepted by 2024 63rd IEEE Conference on Decision and Control (**CDC**) for oral presentation.
