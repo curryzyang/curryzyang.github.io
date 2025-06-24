@@ -19,14 +19,14 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 # latest_posts:
 #   enabled: true
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a third-year Ph.D. candidate in Intelligent Transportation at the Hong Kong University of Science and Technology [(HKUST)](https://www.hkust-gz.edu.cn), Guangzhou, where I am supervised by Prof. [Huan Yu](https://amslab.org).
+I am currently a third-year Ph.D. candidate in Intelligent Transportation at the Hong Kong University of Science and Technology ([HKUST](https://www.hkust-gz.edu.cn)), Guangzhou, where I am supervised by Prof. [Huan Yu](https://amslab.org).
 <!-- and Prof. [Mamadou Diagne](https://www.insync-lab.org)(UCSD).  -->
 Prior to my time at HKUST(GZ), I received the M.S. degree in Vehicle Engineering from South China University of Technology ([SCUT](https://www.scut.edu.cn/new/)) in 2022, and my B.E. degree in Vehicle Engineering from Southwest University ([SWU](https://www.swu.edu.cn)) in 2019.
 

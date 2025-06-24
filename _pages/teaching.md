@@ -11,21 +11,21 @@ nav_order: 6
 
 ## mentroship
 
-1. **Ziming Wang** (Mphil student, HKUST(GZ)), Aug 2024 - now  
-Project: Event-Triggered Control of Multi-Agent Systems (Preparing submission to T-ITS)
+- **Ziming Wang** (Mphil student, HKUST(GZ)), Aug 2024 - May 2025  
+Project: Adaptive Event-Triggered Formation Control of Autonomous Vehicles (Paper submitted to T-ITS)
 
-2. **Kaijing Lv** (Visiting PhD student, Beijing Institute of Technology), Mar 2024 - Sep 2024  
+- **Kaijing Lv** (Visiting PhD student, Beijing Institute of Technology), Mar 2024 - Sep 2024  
 Project: Neural Operators for Adaptive Control of Freeway Traffic (Paper submitted to Automatica)
 
-3. **Ruiguo Zhong** (Ph.D. student, HKUST(GZ)), Sep 2023 - Jan 2024  
+- **Ruiguo Zhong** (Ph.D. student, HKUST(GZ)), Sep 2023 - Jan 2024  
 Project: Mitigating Stop-and-Go Traffic Congestion with Operator Learning (Paper published on TRC)
 
 
 ## teaching
-1. **INTR 6000G: Traffic Flow Theory, Teaching Assistant**  
+- **INTR 6000G: Traffic Flow Theory, Teaching Assistant**  
 Intelligent Transportation Thrust, Fall 2023.  
 Led office hours and gave feedback and comments for weekly readings and in-class discussions. Contributed to the design and grading of assignments.
 
-2. **INTR 5300: Nonlinear Control System, Teaching Assistant**  
+- **INTR 5300: Nonlinear Control System, Teaching Assistant**  
 Intelligent Transportation Thrust, Spring 2024.  
 Led weekly sections and office hours. Contributed to the design and grading of weekly assignments as well as the final exam.
