@@ -15,7 +15,7 @@ nav_order: 6
 Project: Adaptive Event-Triggered Formation Control of Autonomous Vehicles (Paper submitted to T-ITS)
 
 - **Kaijing Lv** (Visiting PhD student, Beijing Institute of Technology), Mar 2024 - Sep 2024  
-Project: Neural Operators for Adaptive Control of Freeway Traffic (Paper submitted to Automatica)
+Project: Neural Operators for Adaptive Control of Freeway Traffic (Paper published on Automatica)
 
 - **Ruiguo Zhong** (Ph.D. student, HKUST(GZ)), Sep 2023 - Jan 2024  
 Project: Mitigating Stop-and-Go Traffic Congestion with Operator Learning (Paper published on TRC)
