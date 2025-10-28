@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate, Intelligent Transportation, HKUST, Guangzhou
 
 profile:
   align: right
-  image: prof_pic_me.jpg
+  image: photo1_job.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>

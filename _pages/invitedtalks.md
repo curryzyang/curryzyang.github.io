@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /invited talks/
-title: invited talks
+title: Invited Talks
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6

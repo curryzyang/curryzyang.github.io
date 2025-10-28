@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: mentorship & teaching
+title: Mentorship & Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
