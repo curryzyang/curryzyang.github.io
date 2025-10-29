@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-invited-talks",
-          title: "invited talks",
+          title: "Invited Talks",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/invited%20talks/";
           },
         },{id: "nav-mentorship-amp-teaching",
-          title: "mentorship &amp; teaching",
+          title: "Mentorship &amp; Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -59,6 +59,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-presented-our-paper-entitled-neural-operator-control-for-traffic-flow-models-with-stochastic-demand-at-5th-ifac-workshop-on-control-of-systems-governed-by-partial-differential-equations-cpde-2025",
           title: 'I presented our paper entitled “Neural-Operator Control for Traffic Flow Models with Stochastic...',
+          description: "",
+          section: "News",},{id: "news-our-paper-entitled-neural-operators-for-adaptive-control-of-freeway-traffic-has-been-accepted-by-automatica-as-a-regular-paper",
+          title: 'Our paper entitled “Neural Operators for Adaptive Control of Freeway Traffic” has been...',
           description: "",
           section: "News",},{
         id: 'social-email',
