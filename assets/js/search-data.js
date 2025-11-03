@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-entitled-neural-operators-for-adaptive-control-of-freeway-traffic-has-been-accepted-by-automatica-as-a-regular-paper",
           title: 'Our paper entitled “Neural Operators for Adaptive Control of Freeway Traffic” has been...',
           description: "",
+          section: "News",},{id: "news-our-paper-entitled-event-triggered-regulation-of-mixed-autonomy-traffic-under-varying-traffic-conditions-has-been-accepted-by-ieee-transactions-on-intelligent-transportation-systems-as-a-regular-paper",
+          title: 'Our paper entitled “Event-Triggered Regulation of Mixed-Autonomy Traffic Under Varying Traffic Conditions” has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
