@@ -75,12 +75,21 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-mean-square-exponential-stabilization-of-mixed-autonomy-traffic-pde-system-has-been-selected-as-editor-s-choice-of-automatica",
           title: 'Our paper “Mean-square exponential stabilization of mixed-autonomy traffic PDE system” has been selected...',
           description: "",
+          section: "News",},{id: "news-our-paper-cooperative-switched-formation-control-of-autonomous-vehicles-an-event-triggered-approach-to-input-saturation-and-time-delay-challenges-has-been-posted-on-arxiv",
+          title: 'Our paper “Cooperative Switched Formation Control of Autonomous Vehicles: An Event-triggered Approach to...',
+          description: "",
+          section: "News",},{id: "news-our-paper-event-triggered-gain-scheduling-of-2-x-2-linear-hyperbolic-pdes-via-neural-operators-full-version-has-been-posted-on-arxiv",
+          title: 'Our paper “Event-Triggered Gain Scheduling of 2 x 2 Linear Hyperbolic PDEs via...',
+          description: "",
+          section: "News",},{id: "news-our-paper-robust-stabilization-of-linear-markov-jumping-hyperbolic-pdes-with-boundary-input-delay-has-been-posted-on-arxiv",
+          title: 'Our paper “Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs with Boundary Input Delay”...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%7A%68%61%6E%67%31%36%39@%63%6F%6E%6E%65%63%74.%68%6B%75%73%74-%67%7A.%65%64%75.%63%6E", "_blank");
+          window.open("mailto:%79%69%68%75%61%69.%7A%68%61%6E%67@%63%69%74%79%75.%65%64%75.%68%6B", "_blank");
         },
       },{
         id: 'social-linkedin',
