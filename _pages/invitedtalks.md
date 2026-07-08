@@ -10,10 +10,11 @@ nav_order: 6
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 
 
+- Mitigating Traffic Congestion with Operator Learning, 2026. City University of Hong Kong, Group of Prof. Lu Liu.
 
 - Mitigating Traffic Congestion with Operator Learning, hosted by Prof. Karl Henrik Johansson, 2025.  
 **NetCon Seminar** of KTH Royal Institute of Technology, Stockholm, Sweden.
-  
+
 - Neural-Operator Control for Traffic Flow Models with Stochastic Demand, oral presentation.  
 5th IFAC Workshop on Control of Systems Governed by Partial Differential Equations (CPDE 2025), Beijing, China
 
@@ -37,4 +38,3 @@ Joint International Conference on "Automation-Intelligence-Safety'' & "Internati
 
 - Impact of Connected Automated Vehicle Platooning On Mixed Lane-free Traffic, poster.  
 The 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China.
-
