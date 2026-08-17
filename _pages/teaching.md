@@ -10,6 +10,8 @@ nav_order: 6
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 
 ## mentroship
+- **Yidan Cao** (PhD student, CityUHK), Mar 2026 - now  
+Project: Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs with Boundary Input Delay (Paper submitted to IEEE TAC)
 
 - **Ziming Wang** (Mphil student, HKUST(GZ)), Aug 2024 - May 2025  
 Project: Adaptive Event-Triggered Formation Control of Autonomous Vehicles (Paper submitted to T-ITS)
