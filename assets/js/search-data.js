@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-awards",
+          title: "Awards",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
         },{id: "news-our-paper-entitled-impact-of-connected-automated-vehicle-platooning-on-mixed-lane-free-traffic-has-been-accepted-by-the-27th-international-conference-of-hong-kong-society-for-transportation-studies-hksts-in-the-poster-session",
           title: 'Our paper entitled “Impact of Connected Automated Vehicle Platooning On Mixed Lane-free Traffic”...',
           description: "",
@@ -83,6 +90,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-robust-stabilization-of-linear-markov-jumping-hyperbolic-pdes-with-boundary-input-delay-has-been-posted-on-arxiv",
           title: 'Our paper “Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs with Boundary Input Delay”...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-awarded-the-intr-outstanding-graduate-award-phd-in-rcognition-of-outstanding-academic-performance-remarkable-research-contributions-and-positive-engagement-in-the-academic-community-during-the-study-at-the-hong-kong-university-of-science-and-technology-guangzhou",
+          title: 'I have been awarded the INTR Outstanding Graduate Award(PhD) in rcognition of outstanding...',
           description: "",
           section: "News",},{
         id: 'social-email',
